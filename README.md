@@ -12,9 +12,20 @@ Which cave will you go into? (1 or 2)
 ## Player Input
 1
 
-## Outcome
+## Outcome 1
 You approach the cave…
 It is dark and spooky…
 A large dragon jumps out in front of you!
 He opens his jaws and…
 Gobbles you down in one bite!
+
+## Player Input
+2
+
+## Outcome 2
+The air grows cool...
+The faint glimmer of treasure catches your eye in the shadows...
+Suddenly, a magnificent dragon emerges! 
+Its eyes shine with kindness, and it greets you warmly...
+The friendly dragon shares its treasure with you, granting you riches beyond imagination.
+You have triumphed!
